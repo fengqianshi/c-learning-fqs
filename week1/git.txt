@@ -1,0 +1,19 @@
+clear 清理 
+
+ls    显示当前文件夹里所有的东西
+
+cd    进入一个目录
+
+cat   看一个TXT
+
+touch  新建一个文件
+
+rm     删除
+
+mkdir  新建一个目录
+
+~      home
+
+
+
+
