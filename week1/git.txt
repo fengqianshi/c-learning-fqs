@@ -10,6 +10,8 @@ touch  新建一个文件
 
 rm     删除
 
+rm -r e 删除一个文件夹
+
 mkdir  新建一个目录
 
 ~      home

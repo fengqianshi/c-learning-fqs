@@ -1,4 +1,4 @@
-void main() {
+l.void main() {
 
 
     printf("                   ио\n" );
