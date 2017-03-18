@@ -2,6 +2,6 @@
 
 1. cd进入c-learning-xxx文件夹
 2. git add .
-3. git commit -m ’upload”
+3. git commit -m "upload"
 4.git push
 5.根据提示输入github用户名和密码

@@ -1,0 +1,41 @@
+
+
+file	文件
+directory	路径／文件夹
+root	根
+make	创建
+change	改变
+remove	删除
+move	移动
+copy	复制
+paste	粘贴
+upload	上传
+download	下载
+push	推（送）
+pull	拉
+print	打印
+return	返回
+main	主要的
+integer	整数
+character	字符
+float	浮点（小数）
+void	空
+true	真
+false	假
+positive	正
+negative	负
+code	代码
+
+
+condition	条件
+if	如果
+else	否则
+addition	加法
+subtraction	减法
+multiplication	乘法
+division	除法
+modulus	求余数
+input	输入
+output	输出
+print	打印
+scan	扫描
