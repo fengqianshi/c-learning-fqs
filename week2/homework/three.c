@@ -9,7 +9,9 @@ int main() {
     //}
 
     int x,y,z;
-    scanf("%d%d%d",&x,&y,&z);
+     return 0;
+}
+
     int a,b,c;
     a=x+y;
     b=y+z;
